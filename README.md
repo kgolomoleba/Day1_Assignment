@@ -22,4 +22,4 @@ Through this process, I reinforced my understanding of:
 - Submitting a repository link for evaluation.  
 
 ## Repository Link  
-[Click here to view my repository](https://github.com/your-username/your-repository)
+[Click here to view my repository](https://github.com/kgolomoleba/Day1_Assignment.git)
